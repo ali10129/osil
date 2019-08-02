@@ -1,0 +1,9 @@
+C:\Users\ALi\documents\visual studio 2017\Projects\osil\osil\bin\x64\Debug\osil.exe.config
+C:\Users\ALi\documents\visual studio 2017\Projects\osil\osil\bin\x64\Debug\osil.exe
+C:\Users\ALi\documents\visual studio 2017\Projects\osil\osil\bin\x64\Debug\osil.pdb
+C:\Users\ALi\documents\visual studio 2017\Projects\osil\osil\obj\x64\Debug\osil.Form1.resources
+C:\Users\ALi\documents\visual studio 2017\Projects\osil\osil\obj\x64\Debug\osil.Properties.Resources.resources
+C:\Users\ALi\documents\visual studio 2017\Projects\osil\osil\obj\x64\Debug\osil.csproj.GenerateResource.Cache
+C:\Users\ALi\documents\visual studio 2017\Projects\osil\osil\obj\x64\Debug\osil.exe
+C:\Users\ALi\documents\visual studio 2017\Projects\osil\osil\obj\x64\Debug\osil.pdb
+C:\Users\ALi\documents\visual studio 2017\Projects\osil\osil\obj\x64\Debug\osil.csprojResolveAssemblyReference.cache
